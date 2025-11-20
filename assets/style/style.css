@@ -372,11 +372,21 @@ margin-bottom: 40px;
     border-radius: 10px;
 		border: 0.5px solid var(--white, #FFF);
 		background: rgba(255, 255, 255, 0.20);
-		padding: 14px 24px;
+		padding: 14px 30px 14px 23px;
 		gap: 10px;
 		color: var(--white);
 		max-width:fit-content;
 		transition: .3s linear;
+		display:flex;
+		align-items: center;
+		justify-content: center;
+		gap:15px;
+		color: var(--White, #FFF);
+		font-family: "Fixel Text";
+		font-size: 1rem;
+		font-style: normal;
+		font-weight: 600;
+		line-height: 160%
 }
 .btn-primary:hover{
 	background-color: var(--btn-hover-bg);	
