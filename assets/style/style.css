@@ -152,12 +152,12 @@ body{
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: url(../images/img-bg-mobile.svg) center center / 100% repeat;
+	background: url(../images/img-bg.svg) center center / 100% repeat;
 	z-index: -1;
 }
 @media (max-width:768px) {
   .img-bg:after {
-    background-image: url(../images/img-bg.svg);
+    background-image: url(../images/img-bg-mobile.svg);
   }
 }
 
