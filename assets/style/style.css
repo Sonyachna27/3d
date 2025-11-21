@@ -81,21 +81,21 @@ button {
 
 @font-face {
 	font-family: "Fixel Text";
-	src: url(../fonts/FixelText-Regular.otf);
+	src: url(../fonts/FixelText-Regular.ttf);
 	font-weight: 400;
 }
 @font-face {
 	font-family:  "Fixel Text";
-	src: url(../fonts/FixelText-Medium.otf);
+	src: url(../fonts/FixelText-Medium.ttf);
 	font-weight: 500;
 }
 @font-face {
 	font-family:"Fixel Text" ;
-	src: url(../fonts/FixelText-SemiBold.otf);
+	src: url(../fonts/FixelText-SemiBold.ttf);
 	font-weight: 600;
 }
 @font-face {
-	font-family:  "Fixel Text";
+	font-family: "Fixel Text";
 	src: url(../fonts/FixelText-Bold.ttf);
 	font-weight: 700;
 }
